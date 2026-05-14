@@ -336,8 +336,6 @@ public static Order Place(
 }
 ```
 
-📖 **[Read the complete Domain Services Guide →](DOMAIN-SERVICES.md)**
-
 ### Domain Events
 
 Domain Events represent something important that happened in the domain:
@@ -626,7 +624,6 @@ public async Task Dispatcher_ShouldCallAllHandlers()
 
 ## 📖 Documentation
 
-- **[Domain Services Guide](DOMAIN-SERVICES.md)** - Comprehensive guide on when and how to use Domain Services
 - **[Version 1.0 Summary](VERSION-1.0-SUMMARY.md)** - Detailed version summary and design decisions
 - **[Examples](samples/)** - Sample applications demonstrating usage
 
